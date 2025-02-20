@@ -1,2 +1,2 @@
-# DPD
-Our code and dataset will be made available soon.
+# GPAL
+The code and dataset will be publicly available upon paper acceptance.
